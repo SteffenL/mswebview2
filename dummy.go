@@ -1,3 +1,5 @@
+// +build dummy
+
 package mswebview2
 
 import (
