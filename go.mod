@@ -1,3 +1,3 @@
 module github.com/SteffenL/mswebview2
 
-go 1.18
+go 1.13
